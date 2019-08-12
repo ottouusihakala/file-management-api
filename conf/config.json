@@ -1,0 +1,8 @@
+{
+  "development": {
+    "base_dir": "./"
+  },
+  "production": {
+    "base_dir": "./"
+  }
+}
